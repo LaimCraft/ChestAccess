@@ -1,0 +1,9 @@
+name: ChestAccess
+version: '0.0.1'
+main: ru.laimcraft.chestaccess.ChestAccess
+api-version: '1.21'
+prefix: ChestAccess
+load: STARTUP
+authors: [ LaimCraft, isaevisa05 ]
+website: https://github.com/LaimCraft/ChestAccess
+chest:
