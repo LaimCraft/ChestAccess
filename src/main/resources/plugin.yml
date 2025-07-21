@@ -6,4 +6,6 @@ prefix: ChestAccess
 load: STARTUP
 authors: [ LaimCraft, isaevisa05 ]
 website: https://github.com/LaimCraft/ChestAccess
-chest:
+commands:
+  chest:
+    usage: "/chest"
